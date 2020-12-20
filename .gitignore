@@ -1,6 +1,6 @@
-/bin
-/obj
-*.vs
-*.js
-*.js.map
-/node_modules
+ProjectAfr/bin
+ProjectAfr/obj
+ProjectAfr/*.vs
+ProjectAfr/*.js
+ProjectAfr/*.js.map
+ProjectAfr/node_modules
