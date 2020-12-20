@@ -3,4 +3,4 @@ ProjectAfr/obj
 ProjectAfr/*.vs
 ProjectAfr/*.js
 ProjectAfr/*.js.map
-ProjectAfr/node_modules
+ProjectAfr/ClientApp/node_modules
